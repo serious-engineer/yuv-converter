@@ -1,18 +1,6 @@
-A Simple C++ Exec which can convert any yuv files from NV12 Color format to NV21,NV24 or any other colorformat. 
-
 YUV Converter
 This project is a C++ application that converts YUV video files between various formats, such as NV12, NV21, and NV24. The application reads raw YUV video data and provides options for conversion between these formats, supporting customizable resolution and frame count for efficient processing.
 
-Table of Contents
-Overview
-Supported Formats
-Features
-Installation
-Usage
-Examples
-Contributing
-License
-Overview
 YUV Converter is designed for developers and media engineers who need to work with raw YUV video data. This tool reads NV12, NV21, and converts these to other YUV formats, allowing for greater flexibility in processing and analysis.
 
 Supported Formats
